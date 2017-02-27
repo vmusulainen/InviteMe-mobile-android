@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Invite me</string>
+    <string name="server_url"><the backend url></string>
+    <string name="fcm_token_key">fcmToken</string>
+    <string name="installation_id_key">installationId</string>
+
+    <string name="accept">Accept</string>
+    <string name="ignore">Ignore</string>
+    <string name="more">more</string>
+    <string name="thumbnail">thumbnail</string>
+</resources>
